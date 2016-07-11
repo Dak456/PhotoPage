@@ -1,0 +1,26 @@
+/*
+    Stylesheet for bencarlsondesign.
+   */
+
+<style type="text/css">
+    body {
+      background: #145
+      margin: 2;
+  }
+.thumbnails img {
+    height: 200x;
+    border: 6x solid #145
+    padding: 1px;
+    margin: 0 50px 10px 0;
+}
+.thumbnails img:hover {
+    border: 6px solid #000000
+    cursor:pointer;
+}
+
+.preview img {
+    border: 6x solid #145
+    padding: 1px;
+    width: 800px;
+}
+</style>
